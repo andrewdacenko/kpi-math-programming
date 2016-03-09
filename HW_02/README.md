@@ -10,6 +10,6 @@ a<sub>5</sub>x<sub>1</sub>x<sub>3</sub><sup>2</sup> + a<sub>6</sub>x<sub>1</sub>
 <p>g<sub>2</sub>(x) = b<sub>1</sub>x<sup>p+1</sup> + b<sub>2</sub></p>
 
 
-| Варіант № |  f(x) |  g(x) | a1 | a2 | a3 | a4 | a5 | a6 | b1 | b2 | p |
+| Варіант № |  f(x) |  g(x) | a<sub>1</sub> | a<sub>2</sub> | a<sub>3</sub> | a<sub>4</sub> | a<sub>5</sub> | a<sub>6</sub> | b<sub>1</sub> | b<sub>2</sub> | p |
 |:---------:|:-----:|:-----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:-:|
-|     5     | f1(x) | g2(x) |  2 |  0 | 23 | 12 | 63 |  2 |  6 |  1 | 5 |
+|     5     | f<sub>1</sub>(x) | g<sub>2</sub>(x) |  2 |  0 | 23 | 12 | 63 |  2 |  6 |  1 | 5 |
