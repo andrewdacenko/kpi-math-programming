@@ -1,4 +1,4 @@
-# kpi-math-programming
+# Math Programming Best Practice
 
 KPI Math Programming HW
 
