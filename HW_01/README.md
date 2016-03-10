@@ -10,3 +10,7 @@
 | Силос |             0,6            |       10       |        2,6       |        1        |            16            |
 
 Визначити оптимальний раціон, виходячи з мінімуму його собівартості.
+
+
+![Process](https://github.com/andrewdacenko/kpi-math-programming/blob/master/HW_01/Process.jpg)
+![Solution](https://github.com/andrewdacenko/kpi-math-programming/blob/master/HW_01/Solution.jpg)
